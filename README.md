@@ -1,5 +1,3 @@
 # TABLEAU-PROJECTS
 
-1. HR ANALYSIS
-
-2. NETFLIX DASHBOARD 
+YOU CAN FIND MY TABLEAU PROJECTS @ https://public.tableau.com/app/profile/meghansh.rao.garjala/vizzes
